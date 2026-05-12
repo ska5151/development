@@ -11,13 +11,102 @@
             "id": "17f64ab2b3bbf0d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "other/git 명령어.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "git 명령어"
+            }
+          },
+          {
+            "id": "4fb53d1e89ae356b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/하네스 엔지니어링.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "하네스 엔지니어링"
+            }
+          },
+          {
+            "id": "5542885827080e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/git 명령어.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 명령어"
+            }
+          },
+          {
+            "id": "1c5c439a34ec3d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/이벤트 로그 내려받기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이벤트 로그 내려받기"
+            }
+          },
+          {
+            "id": "c94bb5615c03d64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/다른 sln 파일 참조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "다른 sln 파일 참조"
+            }
+          },
+          {
+            "id": "474acfbe66cb712c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/다른 sln 파일 참조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "다른 sln 파일 참조"
+            }
+          },
+          {
+            "id": "36de24d47400d1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "everything-claude-code_sample/skills/terminal-ops/SKILL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -90,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "everything-claude-code_sample/skills/terminal-ops/SKILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "SKILL 의 백링크"
             }
           },
           {
@@ -108,11 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "everything-claude-code_sample/skills/terminal-ops/SKILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "SKILL 의 나가는 링크"
             }
           },
           {
@@ -150,12 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "everything-claude-code_sample/skills/terminal-ops/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "SKILL 의 개요"
             }
           }
         ]
@@ -176,6 +268,53 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "17f64ab2b3bbf0d2",
-  "lastOpenFiles": []
+  "active": "36de24d47400d1ad",
+  "lastOpenFiles": [
+    "everything-claude-code_sample/skills/windows-desktop-e2e/SKILL.md",
+    "everything-claude-code_sample/skills/x-api/SKILL.md",
+    "everything-claude-code_sample/skills/mysql-patterns/SKILL.md",
+    "everything-claude-code_sample/skills/database-migrations/SKILL.md",
+    "everything-claude-code_sample/hooks/README.md",
+    "everything-claude-code/AGENTS.md",
+    "everything-claude-code/skills/mysql57-patterns/SKILL.md",
+    "everything-claude-code/agents/tdd-guide.md",
+    "everything-claude-code/agents/planner.md",
+    "everything-claude-code/skills/mysql57-patterns",
+    "everything-claude-code/skills/mysql-patterns/SKILL.md",
+    "everything-claude-code/skills/mysql-patterns",
+    "everything-claude-code/skills",
+    "everything-claude-code_sample/skills/github-ops/SKILL.md",
+    "everything-claude-code_sample/agents/doc-updater.md",
+    "everything-claude-code_sample/agents/planner.md",
+    "everything-claude-code/agents",
+    "everything-claude-code_sample/agents/performance-optimizer.md",
+    "everything-claude-code_sample/agents/pr-test-analyzer.md",
+    "everything-claude-code_sample/AGENTS.md",
+    "everything-claude-code_sample/CHANGELOG.md",
+    "everything-claude-code",
+    "everything-claude-code_sample/examples/CLAUDE.md",
+    "everything-claude-code_sample/legacy-command-shims/commands/agent-sort.md",
+    "AI/Everything Claude Code.md",
+    "everything-claude-code_sample/tests/scripts/uninstall.test.js",
+    "everything-claude-code_sample/tests/scripts/trae-install.test.js",
+    "everything-claude-code_sample/tests/scripts/sync-ecc-to-codex.test.js",
+    "everything-claude-code_sample/tests/scripts/skill-create-output.test.js",
+    "everything-claude-code_sample/tests/scripts/setup-package-manager.test.js",
+    "everything-claude-code_sample/skills/videodb/reference/use-cases.md",
+    "everything-claude-code_sample/skills/videodb/reference/streaming.md",
+    "everything-claude-code_sample/skills/videodb/reference/search.md",
+    "everything-claude-code_sample/skills/videodb/reference/rtstream.md",
+    "everything-claude-code_sample/skills/videodb/reference/rtstream-reference.md",
+    "everything-claude-code_sample/skills/videodb/reference/generative.md",
+    "everything-claude-code_sample/assets/images/shortform/11-statusline.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/10-vscode-extension.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/09-zed-editor.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/08-github-pr-review.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/06-marketplaces-mgrep.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/05-plugins-interface.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/04-supabase-mcp.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/03-posttooluse-hook.png",
+    "everything-claude-code_sample/assets/images/shortform/02-chaining-commands.jpeg",
+    "everything-claude-code_sample/assets/images/shortform/01-hackathon-tweet.png"
+  ]
 }
