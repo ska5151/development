@@ -1,4 +1,4 @@
-#db #mysql 
+#mysql 
 
 # mysqld 항목 아래 추가 및 수정
 ```init
