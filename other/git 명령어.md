@@ -1,3 +1,7 @@
+---
+github_repo: ska5151|development
+github_issue: 1
+---
 #git #명령어
 
 ```bash

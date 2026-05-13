@@ -1,4 +1,4 @@
-#linux
+#linux #win #docker #mysql
 
 # 이미지 생성
 ```bash
