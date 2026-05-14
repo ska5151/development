@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "fa35f5832826c93c",
+    "id": "60d8a05aa8918a1c",
     "type": "split",
     "children": [
       {
-        "id": "9f1b020a0cd7e30e",
+        "id": "a675ef9f1f28bb09",
         "type": "tabs",
         "children": [
           {
-            "id": "c31e6861f74612b5",
+            "id": "b5603047cb8a5da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+                "file": "os/Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드"
+              "title": "Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드"
             }
           },
           {
@@ -40,16 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17e6d9414f36b4f8",
+    "id": "82f9e875c3906fc0",
     "type": "split",
     "children": [
       {
-        "id": "d02014f9d626629b",
+        "id": "7aac610d6f0df627",
         "type": "tabs",
-        "dimension": 72.38586156111928,
         "children": [
           {
-            "id": "20a30e5e48fe3a04",
+            "id": "4b01922d688c0a29",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +61,12 @@
             }
           },
           {
-            "id": "4f2e3d9372a1c6d8",
+            "id": "07c3ede5167b3f33",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "dataviewjs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +78,7 @@
             }
           },
           {
-            "id": "5f3457a0923f06ee",
+            "id": "9fda3c02db22591f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,43 +88,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "18879a90a03c20f9",
-        "type": "tabs",
-        "dimension": 27.61413843888071,
-        "children": [
-          {
-            "id": "41c924b661678bfd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 300
   },
   "right": {
-    "id": "e34d385ddcbb81c1",
+    "id": "307a0f28e6279859",
     "type": "split",
     "children": [
       {
-        "id": "649714d0d4a55a83",
+        "id": "0f7aaec79946e248",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcaa68d00f69056",
+            "id": "d17aae92c9f62175",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+                "file": "os/Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +117,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드 의 백링크"
+              "title": "Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드 의 백링크"
             }
           },
           {
-            "id": "fdcf5fb66655de41",
+            "id": "ec939535e803a139",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+                "file": "os/Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드 의 나가는 링크"
+              "title": "Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드 의 나가는 링크"
             }
           },
           {
-            "id": "f2dbb4a31e5f5263",
+            "id": "5de579ebd938c2a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,7 +150,7 @@
             }
           },
           {
-            "id": "d35f3b33f25af9b7",
+            "id": "9715d14171c95850",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -182,22 +164,22 @@
             }
           },
           {
-            "id": "e5725816b5090ff7",
+            "id": "abdbb50c84f5922b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+                "file": "os/Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드 의 개요"
+              "title": "Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드 의 개요"
             }
           },
           {
-            "id": "f8091fbecc31a98a",
+            "id": "82252a7ec510e501",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -205,23 +187,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "26476740523c7a92",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +208,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "c2c4ed458e1f8e83",
   "lastOpenFiles": [
     "AI/Everything Claude Code.md",
@@ -286,5 +259,11 @@
     "everything-claude-code_sample/assets/images/shortform/03-posttooluse-hook.png",
     "everything-claude-code_sample/assets/images/shortform/02-chaining-commands.jpeg",
     "everything-claude-code_sample/assets/images/shortform/01-hackathon-tweet.png"
+=======
+  "active": "b5603047cb8a5da7",
+  "lastOpenFiles": [
+    "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+    "os/docker mysql 5.7.md"
+>>>>>>> 918582ac5244b3e05be8f0fb9184b933c1c34426
   ]
 }
