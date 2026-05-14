@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드"
             }
+          },
+          {
+            "id": "c2c4ed458e1f8e83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "AI/company AI 문서 정리.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "company AI 문서 정리"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,17 +233,20 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "keep-the-rhythm:Word Count Stats": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "githobs:Manage a github issue": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c31e6861f74612b5",
+  "active": "c2c4ed458e1f8e83",
   "lastOpenFiles": [
-    "other/git 명령어.md",
-    "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
-    "AI/하네스 엔지니어링.md",
+    "AI/Everything Claude Code.md",
+    "AI/company AI 문서 정리.md",
+    "AI/company.md",
     "AI/안드레 카파시 스킬.md",
+    "os/Docker 컨테이너 내 Linux APM (Apache 2.2 + PHP 8.1 + MySQL 5.7) 구축 가이드.md",
+    "AI/무제",
+    "os/Windows 환경 로컬 APM (Apache 2.4 + PHP 8.1 + MySQL 5.7) 직접 구축 가이드.md",
+    "other/git 명령어.md",
+    "AI/하네스 엔지니어링.md",
     "other/이벤트 로그 내려받기.md",
     "Excalidraw/발주나라_계산서 발행.md",
     "Excalidraw/무제.md",
@@ -252,19 +268,14 @@
     "무제.canvas",
     "11.md",
     "AI/무제.base",
-    "AI/무제.md",
     "everything-claude-code_sample/docs/ja-JP/skills/backend-patterns/SKILL.md",
     "dev/다른 sln 파일 참조.md",
     "AI/무제.canvas",
     "everything-claude-code_sample/skills/api-design/SKILL.md",
-    "everything-claude-code_sample/skills/accessibility/SKILL.md",
-    "everything-claude-code_sample/AGENTS.md",
-    "dev/sql_mode=only_full_group_by 에러.md",
     "everything-claude-code/skills/mysql57-patterns",
     "everything-claude-code/skills/mysql-patterns",
     "everything-claude-code/skills",
     "everything-claude-code/agents",
-    "everything-claude-code",
     "everything-claude-code_sample/assets/images/shortform/11-statusline.jpeg",
     "everything-claude-code_sample/assets/images/shortform/10-vscode-extension.jpeg",
     "everything-claude-code_sample/assets/images/shortform/09-zed-editor.jpeg",

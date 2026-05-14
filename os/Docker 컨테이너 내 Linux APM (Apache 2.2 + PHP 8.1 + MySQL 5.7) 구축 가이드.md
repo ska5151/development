@@ -124,7 +124,8 @@ cd php-8.1.27
 --with-openssl \
 --enable-mbstring \
 --enable-xml \
---enable-sockets
+--enable-sockets \
+--with-zip
 
 # php.ini 설정 파일 복사
 mkdir -p /usr/local/php/etc
